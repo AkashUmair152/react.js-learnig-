@@ -1,0 +1,62 @@
+{
+  "heroSection": {
+    "title": "Welcome to Our Product",
+    "subtitle": "The best solution for all your needs",
+    "ctaText": "Get Started",
+    "ctaLink": "/get-started"
+  },
+  "productDescription": {
+    "heading": "Product Features",
+    "description": "Our product offers a range of features that help you achieve your goals quickly and effectively. From responsive design to dynamic content, we have it all covered.",
+    "features": [
+      "Responsive Design",
+      "Easy Customization",
+      "High Performance",
+      "24/7 Support"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "feedback": "This product changed my life! Highly recommended.",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Jane Smith",
+      "feedback": "Great value for money. Excellent support and features.",
+      "avatar": "https://via.placeholder.com/150"
+    }
+  ],
+  "pricing": {
+    "heading": "Choose Your Plan",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "$9.99/month",
+        "features": [
+          "10 GB Storage",
+          "Basic Support",
+          "1 User"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$19.99/month",
+        "features": [
+          "50 GB Storage",
+          "Priority Support",
+          "5 Users"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$49.99/month",
+        "features": [
+          "Unlimited Storage",
+          "Dedicated Support",
+          "Unlimited Users"
+        ]
+      }
+    ]
+  }
+}
